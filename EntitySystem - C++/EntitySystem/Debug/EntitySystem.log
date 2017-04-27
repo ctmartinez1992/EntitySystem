@@ -1,0 +1,38 @@
+﻿  World.cpp
+h:\trabalhos\my\not games\entitysystem - c++\entitysystem\immutablebag.h(181): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  h:\trabalhos\my\not games\entitysystem - c++\entitysystem\immutablebag.h(180): note: while compiling class template member function 'void Ent::Bag<Ent::Entity *>::grow(void)'
+  h:\trabalhos\my\not games\entitysystem - c++\entitysystem\immutablebag.h(37): note: see reference to function template instantiation 'void Ent::Bag<Ent::Entity *>::grow(void)' being compiled
+  h:\trabalhos\my\not games\entitysystem - c++\entitysystem\groupmanager.h(14): note: see reference to class template instantiation 'Ent::Bag<Ent::Entity *>' being compiled
+  TagManager.cpp
+  SystemManager.cpp
+h:\trabalhos\my\not games\entitysystem - c++\entitysystem\immutablebag.h(181): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  h:\trabalhos\my\not games\entitysystem - c++\entitysystem\immutablebag.h(180): note: while compiling class template member function 'void Ent::Bag<Ent::EntitySystem *>::grow(void)'
+  h:\trabalhos\my\not games\entitysystem - c++\entitysystem\immutablebag.h(37): note: see reference to function template instantiation 'void Ent::Bag<Ent::EntitySystem *>::grow(void)' being compiled
+  h:\trabalhos\my\not games\entitysystem - c++\entitysystem\systemmanager.h(31): note: see reference to class template instantiation 'Ent::Bag<Ent::EntitySystem *>' being compiled
+  SystemBitManager.cpp
+  main.cpp
+  GroupManager.cpp
+h:\trabalhos\my\not games\entitysystem - c++\entitysystem\immutablebag.h(181): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  h:\trabalhos\my\not games\entitysystem - c++\entitysystem\immutablebag.h(180): note: while compiling class template member function 'void Ent::Bag<Ent::Entity *>::grow(void)'
+  h:\trabalhos\my\not games\entitysystem - c++\entitysystem\immutablebag.h(37): note: see reference to function template instantiation 'void Ent::Bag<Ent::Entity *>::grow(void)' being compiled
+  h:\trabalhos\my\not games\entitysystem - c++\entitysystem\groupmanager.h(14): note: see reference to class template instantiation 'Ent::Bag<Ent::Entity *>' being compiled
+  EntitySystem.cpp
+h:\trabalhos\my\not games\entitysystem - c++\entitysystem\immutablebag.h(181): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  h:\trabalhos\my\not games\entitysystem - c++\entitysystem\immutablebag.h(180): note: while compiling class template member function 'void Ent::Bag<Ent::Entity *>::grow(void)'
+  h:\trabalhos\my\not games\entitysystem - c++\entitysystem\immutablebag.h(37): note: see reference to function template instantiation 'void Ent::Bag<Ent::Entity *>::grow(void)' being compiled
+  h:\trabalhos\my\not games\entitysystem - c++\entitysystem\groupmanager.h(14): note: see reference to class template instantiation 'Ent::Bag<Ent::Entity *>' being compiled
+  EntityProcessingSystem.cpp
+  EntityManager.cpp
+h:\trabalhos\my\not games\entitysystem - c++\entitysystem\immutablebag.h(181): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  h:\trabalhos\my\not games\entitysystem - c++\entitysystem\immutablebag.h(180): note: while compiling class template member function 'void Ent::Bag<Ent::Component *>::grow(void)'
+  h:\trabalhos\my\not games\entitysystem - c++\entitysystem\immutablebag.h(37): note: see reference to function template instantiation 'void Ent::Bag<Ent::Component *>::grow(void)' being compiled
+  h:\trabalhos\my\not games\entitysystem - c++\entitysystem\entitymanager.h(18): note: see reference to class template instantiation 'Ent::Bag<Ent::Component *>' being compiled
+  Entity.cpp
+  DelayedEntitySystem.cpp
+  DelayedEntityProcessingSystem.cpp
+  ComponentTypeManager.cpp
+  ComponentType.cpp
+  Component.cpp
+  Generating Code...
+  EntitySystem.vcxproj -> H:\Trabalhos\My\Not Games\EntitySystem - C++\Debug\EntitySystem.exe
+  EntitySystem.vcxproj -> H:\Trabalhos\My\Not Games\EntitySystem - C++\Debug\EntitySystem.pdb (Full PDB)
